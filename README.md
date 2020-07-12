@@ -8,8 +8,4 @@ This is a machine learning classifier which predicts weather President Trump or 
 * streamlit      https://docs.streamlit.io/en/stable/troubleshooting/clean-install.html
 # How to run Project
 First install all Dependancies then download/clone this repository. this repository contains two project files notebook and a web application of project.
-(1) notebook.ipynb
-    To run notebook.ipynb open this file in jupyter notebook and run.
-(2) web_app.py
-    To run this file go to the directory of project, open terminal (command line) and
-    run this command "streamlit run web_app.py" which will host streamlit app on localhost. Open that link in browser.
+To run notebook.ipynb open this file in jupyter notebook and run. To run this file go to the directory of project, open terminal (command line) and run this command "streamlit run web_app.py" which will host streamlit app on localhost, a link will be given. Open that link in browser.
